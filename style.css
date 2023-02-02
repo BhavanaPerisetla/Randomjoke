@@ -26,7 +26,7 @@ body {
 
 .favourite-place-card-container {
 
-    background-color: rgb(240, 245, 157);
+    background-color: rgb(130, 204, 221);
 
     border-radius: 18px;
 
@@ -79,7 +79,7 @@ h3 {
 
     height: 50px;
 
-    background-color: rgb(240, 245, 157);
+    background-color: rgb(130, 204, 221)
 
     align-items: flex;
 
